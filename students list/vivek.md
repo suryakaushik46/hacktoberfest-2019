@@ -6,5 +6,5 @@
 **place :house:** : Champaran, Bihar
 ### About me :boy: :
 ---
-I am Vivek, A second year computer science student.
+I am Vivek, A second year computer science Engineering student.
 My major areas of interest are Web Development, Open Source.
